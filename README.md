@@ -28,12 +28,7 @@ The dashboard is divided into 4 pages:
 ## 📂 Project Files
 - `cleaned_superstore_sample.csv` → Sample dataset used in this project  
 - `Sales_Dashboard.pbix` → Power BI Dashboard file  
-- `README.md` → Project documentation (this file)  
-
----
-
-## 📸 Dashboard Preview
-*(Insert screenshots of your dashboard pages here — Executive Summary, Product Performance, etc.)*  
+- `README.md` → Project documentation (this file)
 
 ---
 
